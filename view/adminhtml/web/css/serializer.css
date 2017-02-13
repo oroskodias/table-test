@@ -1,0 +1,7 @@
+#row_imsection_imgroup_imfield > .label {
+    display: none;
+}
+
+#row_imsection_imgroup_imfield > .value {
+    width: 100%;
+}
